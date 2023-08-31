@@ -8,9 +8,12 @@
 # 
 ZCZC W00 20 L00 General, etc.
 ZCZC W00 20 L01 Join Scele course
-ZCZC W00 100 L02 Lecture on class
+ZCZC W00 100 L02 Lecture on class Tuesday 29-08-2023
 ZCZC W00 10 L02 Submit registration form OS-232 on Google Form
 ZCZC W00 20 L03 Create os232 GitHub repository, TXT/mylog.txt, LICENSE.md and README.md
 ZCZC W00 10 L04 Deploy Github Pages
 ZCZC W00 30 L05 Setup SEB & Finish Dummy Quiz
+ZCZC W00 100 L02 Lecture on class Thursday 31-08-2023
+ZCZC W00 30 L30 Operating Systems: Visual Metaphor (Udacity)
+ZCZC W00 15 L32 Watch 10 Linux Terminal Commands for Beginners
 ZCZC W00 10 L41 Update TXT/mylog.txt
