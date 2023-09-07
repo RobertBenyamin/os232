@@ -22,5 +22,6 @@ ZCZC W01 100 L02 Lecture on class Tuesday 05-09-2023
 ZCZC W01 60 L11 Installing Virtual Box: Debian
 ZCZC W01 20 L11 Running Debian Guest
 ZCZC W01 60 L11 Dress Up Virtual Guest
+ZCZC W01 20 L11 PULL from / PUSH to GitHub with SSH
 ZCZC W01 100 L02 Lecture on class Thursday 07-09-2023
 ZCZC W01 10 L41 Update TXT/mylog.txt
