@@ -12,7 +12,7 @@ Artikel berisi daftar linux command yang sering digunakan. Artikel ini menjelask
 2. [Basic vi commands](https://www.youtube.com/watch?v=ggSyF1SVFr4)<br>
 Video berisi tutorial dasar penggunaan Vim. Video tersebut sangat cocok untuk pemula karena hanya membahas command-command dasar yang pasti akan sering digunakan. Format video juga semakin memudahkan kita untuk mengikuti tutorialnya.
 
-3. [Vi Editor with Commands](https://www.javatpoint.com/vi-editor)
+3. [Vi Editor with Commands](https://www.javatpoint.com/vi-editor)  
 Sebelumnya, tutorial vi disampaikan dalam bentuk video. Tutorial kali ini berupa artikel yang berisi command-command yang lebih lengkap dibanding dalam video tutorial. Tutorial disusun dengan rapih dan berprogress secara bertahap. Terdapat sidebar di sisi kiri untuk memudahkan navigasi antar materi.
 
 4. [Regular Expressions Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)<br>
@@ -66,3 +66,35 @@ Video membahas macam-macam malware dan perbedaannya satu sama lain. Terdapat con
 
 10. [C Tutorial](https://www.learn-c.org/)  
 Artikel berisi tutorial lengkap mengenai bahasa pemrograman C. Tutorial disusun dengan rapih dan berprogress secara bertahap. Terdapat sidebar di sisi kanan untuk memudahkan navigasi antar materi.
+
+## Week 3
+
+1. [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)  
+Artikel ini membahas banyak topik mengenai file system secara ringkas. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+   
+2. [File Systems in Operating System: Structure, Attributes, Types](https://www.guru99.com/file-systems-operating-system.html)  
+Artikel ini membahas banyak topik mengenai file system secara ringkas. Terdapat kotak daftar isi untuk memudahkan navigasi antar materi.
+   
+3. [Understanding File System](https://www.geeksforgeeks.org/understanding-file-system/)  
+Artikel ini membahas mengenai macam-macam file system populer. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+   
+4. [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/)  
+Artikel ini berisi penjelasan mengenai macam-macam metode yang digunakan untuk mengalokasi file ke penyimpanan lokal. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+   
+5. [Free space management in Operating System](https://www.geeksforgeeks.org/free-space-management-in-operating-system/)  
+Artikel ini berisi penjelasan mengenai teknik-teknik yang digunakan dalam *free space management*. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+   
+6. [Partitions, File Systems, Formatting, Mounting](https://www.physics.udel.edu/~bnikolic/teaching/phys660/RUTE/rute/node22.html)  
+Artikel ini berisi tutorial lengkap mengenai *mounting*, *partitioning*, dan *formatting* pada file system. Tutorial ini menyediakan *screenshot* setiap command ketika sedang dijalankan di terminal. Terdapat kotak daftar isi untuk memudahkan navigasi antar materi.
+    
+7. [RAID (Redundant Arrays of Independent Disks)](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/)  
+Artikel ini berisi mengenai apa itu RAID dan jenis-jenisnya. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+    
+8. [A Deep-dive into the Linux Filesystem | Part 1](https://emmanuelbashorun.medium.com/a-deep-dive-into-the-linux-filesystem-part-1-d06d365d42bb)  
+Artikel ini merupakan bagian pertama dari tutorial file system pada Linux. Tutorial ini menyediakan *screenshot* setiap command ketika sedang dijalankan di terminal.
+    
+9. [A Deep-dive into the Linux Filesystem | Part 2](https://emmanuelbashorun.medium.com/a-deep-dive-into-the-linux-filesystem-part-2-87999610062f)  
+Artikel ini merupakan bagian kedua dari tutorial file system pada Linux. Tutorial ini menyediakan *screenshot* setiap command ketika sedang dijalankan di terminal.
+    
+10. [Linux File System: Virtual File System (VFS) Layer | Part 3](https://emmanuelbashorun.medium.com/linux-file-system-virtual-file-system-vfs-layer-part-3-79235c40a499)  
+Artikel ini merupakan bagian ketiga dari tutorial file system pada Linux. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
