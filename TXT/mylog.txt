@@ -35,6 +35,18 @@ ZCZC W02 100 L12 Read some articles for LINKS
 ZCZC W02 30 L12 Update links.md
 ZCZC W02 20 L12 Review 10 LINKS and update myrank.txt
 ZCZC W02 10 L12 Script Download
-ZCZC W02 30 L12 Finishing Weekly ASsignment - Week 02
+ZCZC W02 30 L12 Finishing Weekly Assignment - Week 02
 ZCZC W02 100 L02 Lecture on class Thursday 14-09-2023
 ZCZC W02 10 L41 Update TXT/mylog.txt
+ZCZC W03 30 L13 Reading and Demos
+ZCZC W03 100 L02 Lecture on class Tuesday 19-09-2023
+ZCZC W03 30 L13 Add/Create An Extra Virtual Disk
+ZCZC W03 100 L13 Read some articles for LINKS
+ZCZC W03 30 L13 Update links.md
+ZCZC W03 20 L13 Review 10 LINKS and update myrank.txt
+ZCZC W03 10 L13 Script Download
+ZCZC W03 30 L13 Finishing Weekly Assignment - Week 03
+ZCZC W03 100 L02 Lecture on class Thursday 21-09-2023
+ZCZC W03 10 L05 Week 03 Quiz 01
+ZCZC W03 30 L05 POP QUIZ W03-2
+ZCZC W03 10 L41 Update TXT/mylog.txt
