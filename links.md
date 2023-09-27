@@ -88,7 +88,7 @@ Artikel ini berisi penjelasan mengenai teknik-teknik yang digunakan dalam *free 
 Artikel ini berisi tutorial lengkap mengenai *mounting*, *partitioning*, dan *formatting* pada file system. Tutorial ini menyediakan *screenshot* setiap command ketika sedang dijalankan di terminal. Terdapat kotak daftar isi untuk memudahkan navigasi antar materi.
     
 7. [RAID (Redundant Arrays of Independent Disks)](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/)  
-Artikel ini berisi mengenai apa itu RAID dan jenis-jenisnya. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+Artikel ini berisi penjelasan mengenai apa itu RAID dan jenis-jenisnya. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
     
 8. [A Deep-dive into the Linux Filesystem | Part 1](https://emmanuelbashorun.medium.com/a-deep-dive-into-the-linux-filesystem-part-1-d06d365d42bb)  
 Artikel ini merupakan bagian pertama dari tutorial file system pada Linux. Tutorial ini menyediakan *screenshot* setiap command ketika sedang dijalankan di terminal.
@@ -98,3 +98,34 @@ Artikel ini merupakan bagian kedua dari tutorial file system pada Linux. Tutoria
     
 10. [Linux File System: Virtual File System (VFS) Layer | Part 3](https://emmanuelbashorun.medium.com/linux-file-system-virtual-file-system-vfs-layer-part-3-79235c40a499)  
 Artikel ini merupakan bagian ketiga dari tutorial file system pada Linux. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+## Week 4
+1. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)  
+Artikel ini menjelaskan mengenai *memory management* pada sistem operasi secara umum. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+2. [Implementation of Contiguous Memory Management Techniques](https://www.geeksforgeeks.org/implementation-of-contiguous-memory-management-techniques/)  
+Artikel ini berisi penjelasan mengenai *contiguous allocation*. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+3. [Non-Contiguous Allocation in Operating System](https://www.geeksforgeeks.org/non-contiguous-allocation-in-operating-system/)  
+Artikel ini berisi penjelasan mengenai *non-contiguous allocation*. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+4. [Fixed (or static) Partitioning in Operating System](https://www.geeksforgeeks.org/fixed-or-static-partitioning-in-operating-system/)  
+Artikel ini berisi penjelasan mengenai *fixed partitioning*. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+5. [Variable (or dynamic) Partitioning in Operating System](https://www.geeksforgeeks.org/variable-or-dynamic-partitioning-in-operating-system/)  
+Artikel ini berisi penjelasan mengenai *variable partitioning*. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+6. [Paging in Operating System](https://www.geeksforgeeks.org/paging-in-operating-system/)  
+Artikel ini berisi penjelasan mengenai *paging*. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+7. [Memory Management in OS: Contiguous, Swapping, Fragmentation](https://www.guru99.com/os-memory-management.html)  
+Artikel ini berisi penjelasan mengenai *contiguous*, *swapping*, dan *fragmentation*. Terdapat kotak daftar isi untuk memudahkan navigasi antar materi.
+
+8. [Virtual Memory in Operating System](https://www.guru99.com/virtual-memory-in-operating-system.html)  
+Artikel ini berisi penjelasan mengenai *virtual memory* pada sistem operasi. Terdapat kotak daftar isi untuk memudahkan navigasi antar materi.
+
+9. [Windows Memory Management](https://www.geeksforgeeks.org/windows-memory-managment/)  
+Artikel ini berisi penjelasan mengenai implementasi *memory management*, terkhususnya pada sistem operasi Windows. Penjelasan pada artikel ini menggunakan kalimat yang sederhana sehingga mudah dipahami.
+
+10. [Memory Management in Linux](https://www.linuxfordevices.com/tutorials/linux/memory-management-linux)  
+Artikel ini berisi tutorial penggunaan *command*-*command* untuk mengatur *memory management* pada sistem operasi Linux. Tutorial ini menyediakan *screenshot* setiap command ketika sedang dijalankan di terminal.
