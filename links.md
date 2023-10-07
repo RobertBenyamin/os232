@@ -129,3 +129,34 @@ Artikel ini berisi penjelasan mengenai implementasi *memory management*, terkhus
 
 10. [Memory Management in Linux](https://www.linuxfordevices.com/tutorials/linux/memory-management-linux)  
 Artikel ini berisi tutorial penggunaan *command*-*command* untuk mengatur *memory management* pada sistem operasi Linux. Tutorial ini menyediakan *screenshot* setiap command ketika sedang dijalankan di terminal.
+
+## Week 5
+1. [Virtual Memory in OS](https://www.javatpoint.com/os-virtual-memory)  
+Artikel ini berisi penjelasan mengenai *virtual memory* pada sistem operasi. Artikel ini memiliki gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+2. [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)  
+Artikel ini berisi penjelasan mengenai *virtual memory* pada sistem operasi. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+3. [Demand Paging in OS](https://www.javatpoint.com/os-demand-paging)  
+Artikel ini berisi penjelasan mengenai *demand paging* pada *virtual memory*. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+4. [Translation Look aside Buffer (TLB)](https://www.javatpoint.com/os-translation-look-aside-buffer)  
+Artikel ini berisi penjelasan mengenai TLB pada *virtual memory*. Artikel ini memiliki gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+5. [Inverted Page Table](https://www.javatpoint.com/os-inverted-page-table)  
+Artikel ini berisi penjelasan mengenai *inverted page table* pada *virtual memory*. Artikel ini memiliki gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+6. [Page Replacement Algorithms in Operating Systems](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)  
+Artikel ini berisi penjelasan mengenai algoritma-algoritma yang dapat digunakan untuk melakukan *page replacement*. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+7. [Allocation of frames in Operating System](https://www.geeksforgeeks.org/operating-system-allocation-frames/)  
+Artikel ini berisi penjelasan mengenai algoritma-algoritma yang dapat digunakan untuk melakukan *frame allocation*. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+8. [Segmentation in OS](https://www.javatpoint.com/os-segmentation)  
+Artikel ini berisi penjelasan mengenai *segmentation* pada *virtual memory*. Artikel ini memiliki gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+9. [Difference between Paging and Segmentation](https://www.javatpoint.com/os-paging-vs-segmentation)  
+Artikel ini berisi penjelasan mengenai perbedaan antara *paging* dengan *segmentation*. Artikel menjelaskan perbedaan tersebut dalam bentuk tabel sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+10. [Commands to Check Memory Usage in Linux](https://phoenixnap.com/kb/linux-commands-check-memory-usage)  
+Artikel ini berisi tutorial penggunaan *command*-*command* untuk memeriksa penggunaan memori pada sistem operasi Linux. Tutorial ini menyediakan *screenshot* setiap command ketika sedang dijalankan di terminal.
