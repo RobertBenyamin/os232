@@ -189,5 +189,5 @@ Artikel ini berisi penjelasan mengenai *concurrency* pada sistem operasi. Tutori
 9. [Difference between Concurrency and Parallelism](https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/)  
 Artikel ini berisi penjelasan mengenai perbedaan antara *concurrency* dengan *parallelism*. Artikel ini sudah mengelompokkan setiap perbedaan tersebut ke dalam tabel-tabel.
 
-10. [Fork, Exec, Wait and Exit](https://percona.community/blog/2021/01/04/fork-exec-wait-and-exit/)
+10. [Fork, Exec, Wait and Exit](https://percona.community/blog/2021/01/04/fork-exec-wait-and-exit/)  
 Artikel ini berisi penjelasan mengenai *command-command* pada C mengenai *process*. Artikel ini menyediakan contoh kode sehingga memudahkan untuk memahami penjelasan yang diberikan.
