@@ -160,3 +160,34 @@ Artikel ini berisi penjelasan mengenai perbedaan antara *paging* dengan *segment
 
 10. [Commands to Check Memory Usage in Linux](https://phoenixnap.com/kb/linux-commands-check-memory-usage)  
 Artikel ini berisi tutorial penggunaan *command*-*command* untuk memeriksa penggunaan memori pada sistem operasi Linux. Tutorial ini menyediakan *screenshot* setiap command ketika sedang dijalankan di terminal.
+
+## Week 6
+1. [Operating System - Processes](https://www.tutorialspoint.com/operating_system/os_processes.htm)  
+Artikel ini berisi penjelasan mengenai *process* pada sistem operasi. Artikel ini memiliki gambar, contoh kode, dan tampilan yang menarik dan mudah dipahami.
+
+2. [Operating System - Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)  
+Artikel ini berisi penjelasan mengenai *process scheduling*. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+3. [Operations on Processes](https://www.geeksforgeeks.org/operations-on-processes/)  
+Artikel ini berisi penjelasan mengenai operasi-operasi yang terdapat pada proses. Artikel ini menjelaskan fungsi setiap command dengan kalimat yang sederhana dan mudah dipahami.
+
+4. [What is Inter Process Communication?](https://www.javatpoint.com/what-is-inter-process-communication)  
+Artikel ini berisi penjelasan mengenai *Inter Process Communication* (IPC). Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+5. [Multithreading Models in Operating system](https://www.javatpoint.com/multithreading-models-in-operating-system)  
+Artikel ini berisi penjelasan mengenai *multithreading models* pada sistem operasi. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+6. [Implicit Threading and Language-based threads](https://www.tutorialspoint.com/implicit-threading-and-language-based-threads)  
+Artikel ini berisi penjelasan mengenai *implicit threading*. Artikel ini menyediakan contoh kode sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+7. [Threading Issues](https://www.tutorialspoint.com/what-are-threading-issues)  
+Artikel ini berisi penjelasan mengenai isu-isu pada *threading*. Tutorial disusun dengan rapih dan berprogress secara bertahap.
+
+8. [Concurrency in Operating System](https://www.tutorialspoint.com/concurrency-in-operating-system)  
+Artikel ini berisi penjelasan mengenai *concurrency* pada sistem operasi. Tutorial disusun dengan rapih dan berprogress secara bertahap.
+
+9. [Difference between Concurrency and Parallelism](https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/)  
+Artikel ini berisi penjelasan mengenai perbedaan antara *concurrency* dengan *parallelism*. Artikel ini sudah mengelompokkan setiap perbedaan tersebut ke dalam tabel-tabel.
+
+10. [Fork, Exec, Wait and Exit](https://percona.community/blog/2021/01/04/fork-exec-wait-and-exit/)
+Artikel ini berisi penjelasan mengenai *command-command* pada C mengenai *process*. Artikel ini menyediakan contoh kode sehingga memudahkan untuk memahami penjelasan yang diberikan.
