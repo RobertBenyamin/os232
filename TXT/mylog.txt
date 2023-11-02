@@ -60,6 +60,7 @@ ZCZC W04 10 L14 Compiling TLPI
 ZCZC W04 30 L14 Finishing Weekly Assignment - Week 04
 ZCZC W04 10 L05 POP QUIZ W04-1
 ZCZC W04 30 L05 POP QUIZ W04-2
+ZCZC W04 15 L05 Week 04 Quiz 01
 ZCZC W04 10 L41 Update TXT/mylog.txt
 ZCZC W05 30 L15 Reading and Demos
 ZCZC W05 100 L02 Lecture on class Tuesday 03-10-2023
@@ -73,5 +74,19 @@ ZCZC W05 30 L15 Finishing Weekly Assignment - Week 05
 ZCZC W05 10 L05 POP QUIZ W05-1
 ZCZC W05 30 L05 POP QUIZ W05-2
 ZCZC W05 10 L05 POP QUIZ W05-3
-ZCZC W05 15 L05 Week 04 Quiz 01
+ZCZC W05 15 L05 Week 05 Quiz 01
 ZCZC W05 10 L41 Update TXT/mylog.txt
+ZCZC W06 30 L16 Reading and Demos
+ZCZC W06 100 L02 Lecture on class Tuesday 31-10-2023
+ZCZC W06 100 L16 Read some articles for LINKS
+ZCZC W06 30 L16 Update links.md
+ZCZC W06 20 L16 Review 10 LINKS and update myrank.txt
+ZCZC W06 10 L16 Script Download
+ZCZC W06 30 L16 Fork and Shared Memory
+ZCZC W06 100 L02 Lecture on class Thursday 02-11-2023
+ZCZC W06 30 L16 Finishing Weekly Assignment - Week 06
+ZCZC W06 10 L05 POP QUIZ W06-1
+ZCZC W06 30 L05 POP QUIZ W06-2
+ZCZC W06 10 L05 POP QUIZ W06-3
+ZCZC W06 15 L05 Week 06 Quiz 01
+ZCZC W06 10 L41 Update TXT/mylog.txt
