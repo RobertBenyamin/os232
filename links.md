@@ -181,13 +181,44 @@ Artikel ini berisi penjelasan mengenai *multithreading models* pada sistem opera
 Artikel ini berisi penjelasan mengenai *implicit threading*. Artikel ini menyediakan contoh kode sehingga memudahkan untuk memahami penjelasan yang diberikan.
 
 7. [Threading Issues](https://www.tutorialspoint.com/what-are-threading-issues)  
-Artikel ini berisi penjelasan mengenai isu-isu pada *threading*. Tutorial disusun dengan rapih dan berprogress secara bertahap.
+Artikel ini berisi penjelasan mengenai isu-isu pada *threading*. Artikel disusun dengan rapih dan berprogress secara bertahap.
 
 8. [Concurrency in Operating System](https://www.tutorialspoint.com/concurrency-in-operating-system)  
-Artikel ini berisi penjelasan mengenai *concurrency* pada sistem operasi. Tutorial disusun dengan rapih dan berprogress secara bertahap.
+Artikel ini berisi penjelasan mengenai *concurrency* pada sistem operasi. Artikel disusun dengan rapih dan berprogress secara bertahap.
 
 9. [Difference between Concurrency and Parallelism](https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/)  
 Artikel ini berisi penjelasan mengenai perbedaan antara *concurrency* dengan *parallelism*. Artikel ini sudah mengelompokkan setiap perbedaan tersebut ke dalam tabel-tabel.
 
 10. [Fork, Exec, Wait and Exit](https://percona.community/blog/2021/01/04/fork-exec-wait-and-exit/)  
 Artikel ini berisi penjelasan mengenai *command-command* pada C mengenai *process*. Artikel ini menyediakan contoh kode sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+## Week 7
+1. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)  
+Artikel ini berisi penjelasan mengenai *process synchronization* pada sistem operasi. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+2. [Critical Section in Synchronization](https://www.geeksforgeeks.org/g-fact-70/)  
+Artikel ini berisi penjelasan mengenai *critical section* pada *process synchronization*. Artikel ini memiliki gambar, contoh kode, dan tampilan yang menarik dan mudah dipahami.
+
+3. [Peterson’s Algorithm in Process Synchronization](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/)  
+Artikel ini berisi penjelasan mengenai *Peterson’s algorithm* pada *process synchronization*. Artikel ini menyediakan contoh kode sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+4. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)  
+Artikel ini berisi penjelasan mengenai *semaphores* pada *process synchronization*. Artikel ini memiliki gambar, contoh kode, dan tampilan yang menarik dan mudah dipahami.
+
+5. [Hardware Synchronization Algorithms : Unlock and Lock, Test and Set, Swap](https://www.geeksforgeeks.org/hardware-synchronization-algorithms-unlock-and-lock-test-and-set-swap/)  
+Artikel ini berisi penjelasan mengenai *hardware instructions* pada *process synchronization*. Artikel ini menyediakan contoh kode sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+6. [Classical Problems of Synchronization](https://www.geeksforgeeks.org/classical-problems-of-synchronization-with-semaphore-solution/)  
+Artikel ini berisi kumpulan permasalahan klasik yang berkaitan dengan *process synchronization*. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+7. [What is Deadlock in Operating System (OS)?](https://www.javatpoint.com/os-deadlocks-introduction)  
+Artikel ini berisi penjelasan mengenai *deadlock* pada sistem operasi. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+8. [Handling Deadlock](https://www.geeksforgeeks.org/handling-deadlocks/)  
+Artikel ini berisi penjelasan mengenai metode-metode untuk menangani *deadlock*. Artikel disusun dengan rapih dan berprogress secara bertahap.
+
+9. [Deadlock Prevention And Avoidance](https://www.geeksforgeeks.org/deadlock-prevention/)  
+Artikel ini berisi penjelasan mengenai metode-metode untuk mencegah dan menghindari *deadlock*. Artikel disusun dengan rapih dan berprogress secara bertahap.
+
+10. [Deadlock Detection And Recovery](https://www.geeksforgeeks.org/deadlock-detection-recovery/)  
+Artikel ini berisi penjelasan mengenai metode-metode untuk mendeteksi dan memulihkan *deadlock*. Artikel disusun dengan rapih dan berprogress secara bertahap.
