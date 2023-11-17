@@ -5,7 +5,6 @@ permalink: LINKS/
 # LINKS
 
 ## WEEK 1
-
 1. [Basic Linux Commands](https://linuxopsys.com/topics/basic-linux-commands)<br>
 Artikel berisi daftar linux command yang sering digunakan. Artikel ini menjelaskan fungsi setiap command dengan kalimat yang sederhana dan mudah dipahami, bahkan terdapat contoh penggunaan konkret dari setiap commandnya.
 
@@ -68,7 +67,6 @@ Video membahas macam-macam malware dan perbedaannya satu sama lain. Terdapat con
 Artikel berisi tutorial lengkap mengenai bahasa pemrograman C. Tutorial disusun dengan rapih dan berprogress secara bertahap. Terdapat sidebar di sisi kanan untuk memudahkan navigasi antar materi.
 
 ## Week 3
-
 1. [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)  
 Artikel ini membahas banyak topik mengenai file system secara ringkas. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
    
@@ -222,3 +220,34 @@ Artikel ini berisi penjelasan mengenai metode-metode untuk mencegah dan menghind
 
 10. [Deadlock Detection And Recovery](https://www.geeksforgeeks.org/deadlock-detection-recovery/)  
 Artikel ini berisi penjelasan mengenai metode-metode untuk mendeteksi dan memulihkan *deadlock*. Artikel disusun dengan rapih dan berprogress secara bertahap.
+
+## Week 8
+1. [Process Queues](https://www.javatpoint.com/os-process-queues)  
+Artikel ini berisi penjelasan mengenai macam-macam *queues* pada *process scheduling*. Artikel ini memiliki gambar sehingga mudah dipahami.
+
+2. [Various Times related to the Process](https://www.javatpoint.com/os-various-time-related-to-the-process)  
+Artikel ini berisi penjelasan mengenai macam-macam *times* pada *process scheduling*. Artikel ini memiliki gambar sehingga mudah dipahami.
+
+3. [Preemptive and Non-Preemptive Scheduling](https://www.geeksforgeeks.org/preemptive-and-non-preemptive-scheduling/)  
+Artikel ini berisi penjelasan mengenai perbedaan antara *preemptive* dengan *non-Preemptive* pada *process scheduling*. Artikel menjelaskan perbedaan tersebut dalam bentuk tabel sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+4. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)  
+Artikel ini berisi penjelasan mengenai *process* pada sistem operasi. Artikel ini memiliki gambar sehingga mudah dipahami. Tutorial disusun dengan rapih dan berprogress secara bertahap. Terdapat kotak daftar isi untuk memudahkan navigasi antar materi.
+
+5. [CPU Scheduling Criteria](https://www.geeksforgeeks.org/cpu-scheduling-criteria/)  
+Artikel ini berisi penjelasan mengenai macam-macam *criteria* pada *CPU scheduling*. Tutorial disusun dengan rapih dan berprogress secara bertahap.
+
+6. [Scheduling Algorithms](https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm)  
+Artikel ini berisi penjelasan mengenai macam-macam algoritma untuk melakukan *CPU scheduling*. Artikel ini memiliki banyak gambar ilustrasi sehingga memudahkan untuk memahami penjelasan yang diberikan.
+
+7. [Thread Scheduling](https://www.geeksforgeeks.org/thread-scheduling/)  
+Artikel ini berisi penjelasan mengenai *thread scheduling* pada sistem operasi. Artikel ini memiliki gambar sehingga mudah dipahami. Tutorial disusun dengan rapih dan berprogress secara bertahap. Artikel ini memiliki gambar sehingga mudah dipahami. 
+
+8. [Multiple-Processor Scheduling](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)  
+Artikel ini berisi penjelasan mengenai *multiple-processor scheduling* pada sistem operasi. Tutorial disusun dengan rapih dan berprogress secara bertahap.
+
+9. [Linux From Scratch v12.0](https://www.linuxfromscratch.org/lfs/view/12.0/)  
+Buku ini berisi tutorial lengkap mengenai cara membangun linux. Tutorial disusun dengan rapih dan berprogress secara bertahap. Terdapat kotak daftar isi untuk memudahkan navigasi antar materi.
+
+10. [How to build Linux From Scratch 12.0](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315)  
+Playlist ini berisi video penjelasan mengenai buku Linux From Scratch 12.0. Video-video tutorial tersebut sangat membantu dalam memahami isi buku Linux From Scratch 12.0.
